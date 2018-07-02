@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/talend_cloud_0.1</module>
+    <module>jobs/process/talend_cloud/a01_simplejob_0.1</module>
   </modules>
   <properties>
     <talend.project.name>TALEENDCLOUD_DEMO</talend.project.name>
