@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_4xxbwX3WEei_JaQd2NljdQ" label="taleendcloud_demo" language="java" technicalLabel="TALEENDCLOUD_DEMO" author="_4xxbwn3WEei_JaQd2NljdQ" productVersion="Talend Cloud Real-Time Big Data Platform-7.0.1.20180411_1414" url="{&quot;location&quot;:&quot;https://github.com/mgiribabu/TalendCloud_Project.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false"/>
+  <TalendProperties:User xmi:id="_4xxbwn3WEei_JaQd2NljdQ" login="gmadathala@eos.talend.com" firstName="Giri" lastName="Madathala" type="DQ"/>
+</xmi:XMI>
