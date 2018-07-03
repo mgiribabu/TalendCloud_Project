@@ -254,6 +254,7 @@
       <relatedItems xmi:id="_DvPi0n5eEei_JaQd2NljdQ" id="MDM" version="Latest" type="routine"/>
       <relatedItems xmi:id="_DvPi035eEei_JaQd2NljdQ" id="SfObmObjectAttribute" version="Latest" type="routine"/>
       <relatedItems xmi:id="_DvPi1H5eEei_JaQd2NljdQ" id="DataTypeUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_StJfwH5zEei_JaQd2NljdQ" id="TalendStringUtil" version="Latest" type="routine"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_DvPi1X5eEei_JaQd2NljdQ">
       <baseItem xmi:id="_DvPi1n5eEei_JaQd2NljdQ" id="_ElX2QN3IEea6cK7S4fP6xQ" version="0.1" type="job"/>
