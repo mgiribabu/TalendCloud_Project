@@ -26,6 +26,7 @@
     <module>jobs/process/MarketingCampaign_Lifecycle/archiveanalytics_to_amazon_s3_0.1</module>
     <module>jobs/process/EnterpriseAnalytics/enterpriseanalytics_socialmediapresence_0.1</module>
     <module>jobs/process/talend_cloud/a02_simplejob_remoteengine_0.1</module>
+    <module>jobs/process/talend_cloud/a03_tic_demo_0.1</module>
   </modules>
   <properties>
     <talend.project.name>TALEENDCLOUD_DEMO</talend.project.name>
