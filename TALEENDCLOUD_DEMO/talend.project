@@ -275,6 +275,8 @@
       <relatedItems xmi:id="_DvPi5X5eEei_JaQd2NljdQ" id="IpaasFileUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_DvPi5n5eEei_JaQd2NljdQ" id="MDM" version="Latest" type="routine"/>
       <relatedItems xmi:id="_DvPi535eEei_JaQd2NljdQ" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_SJSvUH50Eei_JaQd2NljdQ" id="_MBU2MBgiEeaAecWSGuq6CA" version="Latest" type="context"/>
+      <relatedItems xmi:id="_SJSvUX50Eei_JaQd2NljdQ" id="TalendStringUtil" version="Latest" type="routine"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_DvPi6H5eEei_JaQd2NljdQ">
       <baseItem xmi:id="_DvPi6X5eEei_JaQd2NljdQ" id="_nkhgYOdCEeanwOaQgx9yug" version="0.1" type="job"/>
