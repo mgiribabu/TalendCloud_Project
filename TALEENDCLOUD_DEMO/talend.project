@@ -804,4 +804,6 @@
     <migrationTask xmi:id="__2SoxX3WEei_JaQd2NljdQ" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_4xxbwn3WEei_JaQd2NljdQ" login="gmadathala@eos.talend.com" firstName="Giri" lastName="Madathala" type="DQ"/>
+  <TalendProperties:User xmi:id="_JiYsIYmyEeiq1se6TtKnBQ" login="cdavie@eos.talend.com" firstName="Cameron" lastName="Davie" type="DQ"/>
+  <TalendProperties:User xmi:id="_JiYsIomyEeiq1se6TtKnBQ" login="eost@eos.talend.com" firstName="Ed" lastName="Ost" type="DQ"/>
 </xmi:XMI>
